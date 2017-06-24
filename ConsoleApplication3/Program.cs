@@ -10,6 +10,7 @@ namespace ConsoleApplication3
     {
         static void Main(string[] args)
         {
+            //  \\ \' \" \a \n \b \t \o \r \f \v
             ///https://github.com/ra-bedo11/C-Codes_1.git
             ///
 
