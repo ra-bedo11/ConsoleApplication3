@@ -11,6 +11,7 @@ namespace ConsoleApplication3
         static void Main(string[] args)
         {
             ///https://github.com/ra-bedo11/C-Codes_1.git
+            ///
             float mf = float.MinValue;
             float maxf = float.MaxValue;
 
